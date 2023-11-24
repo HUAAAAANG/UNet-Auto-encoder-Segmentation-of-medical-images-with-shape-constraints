@@ -25,8 +25,8 @@
 
 # Description <!-- omit in toc -->
 
-This project serves as a starting point for anyone who wants to learn how to use PyTorch to perform
-deep learning tasks, such as image classification, semantic segmentation, etc.
+This project aims to utilize an architecture U-Net by combining an auto-encoder to segment medical images with shape constraints.
+The main notebook is notebooks/ae.ipynb
 
 # Table of Contents <!-- omit in toc -->
 
