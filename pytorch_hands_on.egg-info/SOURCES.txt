@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pytorch_hands_on.egg-info/PKG-INFO
+pytorch_hands_on.egg-info/SOURCES.txt
+pytorch_hands_on.egg-info/dependency_links.txt
+pytorch_hands_on.egg-info/requires.txt
+pytorch_hands_on.egg-info/top_level.txt
+src/__init__.py
