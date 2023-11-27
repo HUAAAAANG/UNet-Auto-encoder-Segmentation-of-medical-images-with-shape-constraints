@@ -33,7 +33,6 @@ The main notebook is notebooks/ae.ipynb
 - [Setup](#setup)
 - [How to Run](#how-to-run)
 - [Available Tutorials](#available-tutorials)
-  - [Semantic Segmentation](#semantic-segmentation)
 - [How to Contribute](#how-to-contribute)
 
 # Setup
